@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "./static/css/main.18fa5339.chunk.css",
+    "main.js": "./static/js/main.285eb0c0.chunk.js",
+    "main.js.map": "./static/js/main.285eb0c0.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.4b5fdc46.js",
+    "runtime-main.js.map": "./static/js/runtime-main.4b5fdc46.js.map",
+    "static/js/2.b4478a73.chunk.js": "./static/js/2.b4478a73.chunk.js",
+    "static/js/2.b4478a73.chunk.js.map": "./static/js/2.b4478a73.chunk.js.map",
+    "static/js/3.d9377bb2.chunk.js": "./static/js/3.d9377bb2.chunk.js",
+    "static/js/3.d9377bb2.chunk.js.map": "./static/js/3.d9377bb2.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.18fa5339.chunk.css.map": "./static/css/main.18fa5339.chunk.css.map",
+    "static/js/2.b4478a73.chunk.js.LICENSE.txt": "./static/js/2.b4478a73.chunk.js.LICENSE.txt",
+    "static/media/blog.772286fe.jpg": "./static/media/blog.772286fe.jpg",
+    "static/media/App.css": "./static/media/coffee-apple.a0c19713.jpg",
+    "static/media/e-commerce.a40ffe4d.png": "./static/media/e-commerce.a40ffe4d.png",
+    "static/media/nat.548c927d.jpg": "./static/media/nat.548c927d.jpg",
+    "static/media/nat2.a1a92254.jpg": "./static/media/nat2.a1a92254.jpg",
+    "static/media/restaurant.47d1ccf9.jpg": "./static/media/restaurant.47d1ccf9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b5fdc46.js",
+    "static/js/2.b4478a73.chunk.js",
+    "static/css/main.18fa5339.chunk.css",
+    "static/js/main.285eb0c0.chunk.js"
+  ]
+}
